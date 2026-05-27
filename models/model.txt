@@ -1,0 +1,10 @@
+# Models Folder
+
+No serialized model files were saved in this project.
+
+The project uses statistical regression and clustering models generated through the Python script in `src/unemployment_analysis.py`.
+
+Model outputs are stored in:
+
+- `data/processed/`
+- `figures/`
